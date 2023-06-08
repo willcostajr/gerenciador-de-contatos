@@ -1,0 +1,15 @@
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\bin\Debug\net6.0\GerenciamentoDeContatos.exe
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\bin\Debug\net6.0\GerenciamentoDeContatos.deps.json
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\bin\Debug\net6.0\GerenciamentoDeContatos.runtimeconfig.json
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\bin\Debug\net6.0\GerenciamentoDeContatos.dll
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\bin\Debug\net6.0\GerenciamentoDeContatos.pdb
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.csproj.AssemblyReference.cache
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.AssemblyInfoInputs.cache
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.AssemblyInfo.cs
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.dll
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\refint\GerenciamentoDeContatos.dll
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.pdb
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\GerenciamentoDeContatos.genruntimeconfig.cache
+C:\Users\Will Costa\Documents\C#\GerenciamentoDeContatos\GerenciamentoDeContatos\obj\Debug\net6.0\ref\GerenciamentoDeContatos.dll
